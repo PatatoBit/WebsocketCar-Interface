@@ -11,8 +11,8 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Patato</title>
-        <meta name="description" content="Developer?, Artist?, Animator?, I have no idea" />
+        <title>Websocket Car</title>
+        <meta name="description" content="Control an RC Car using this web interface!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
