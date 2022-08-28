@@ -1,0 +1,26 @@
+.controls {
+  text-align: center;
+}
+
+.up {
+  position: relative;
+  top: -4px;
+}
+
+.arr {
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 50px;
+  background-color: white;
+  border-radius: 20%;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+.arr:hover {
+}
+
+.arr:active {
+  background-color: #08a4ec;
+}
